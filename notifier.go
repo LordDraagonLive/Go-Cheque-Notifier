@@ -45,7 +45,7 @@ func run(ctx context.Context, reader sheetReader, sender messageSender, now time
 			if len(row) < 5 {
 				continue
 			}
-			// Parse every complete row before filtering, as in the Ballerina source.
+			// Validate every complete row before filtering by its due date.
 			if _, err := time.Parse(time.DateOnly, row[4]); err != nil {
 				return fmt.Errorf("%s row %d: cheque date must use YYYY-MM-DD", sheet, index+2)
 			}

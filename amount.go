@@ -19,7 +19,7 @@ func transformAmount(amount string) (string, error) {
 	return decimalString(strings.ReplaceAll(string(runes[2:]), ",", ""))
 }
 
-// decimalString mirrors Ballerina's DECIMAL128 conversion and BigDecimal rendering:
+// decimalString uses DECIMAL128 conversion and BigDecimal-style rendering:
 // 34 significant digits, ties to even, retained scale, and canonical zero.
 func decimalString(value string) (string, error) {
 	parts := decimalPattern.FindStringSubmatch(value)

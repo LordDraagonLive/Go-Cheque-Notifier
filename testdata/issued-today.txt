@@ -1,0 +1,10 @@
+🚨 *Urgent*: Funds Required for Issued Cheques Today
+--------------------------------------------------
+Ensure your bank has enough funds for these issued cheques today:
+
+🧾 Cheque No : 2002
+👤 Payee     : Jane Smith
+💰 Amount    : 7500
+🏦 Bank      : XYZ Bank
+📅 Date      : 2026-10-21
+

@@ -1,0 +1,10 @@
+🔔 *Reminder*: Ensure Funds for Issued Cheques
+--------------------------------------------------
+Make sure the following issued cheques have sufficient balance before they are cashed:
+
+🧾 Cheque No : 2001
+👤 Payee     : Office Supplies
+💰 Amount    : 3250.00
+🏦 Bank      : XYZ Bank
+📅 Date      : 2026-10-24
+

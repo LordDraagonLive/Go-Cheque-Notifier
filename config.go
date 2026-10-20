@@ -48,7 +48,7 @@ func loadConfig(path string, explicitPath, dryRun bool) (config, error) {
 	}
 	var missing []string
 	for i, field := range fields {
-		// Also accept the original program's unqualified Ballerina env names.
+		// Also accept alternate environment names for existing configurations.
 		if value, ok := os.LookupEnv("BAL_CONFIG_VAR_" + strings.ToUpper(field.key)); ok {
 			*field.value = value
 		}

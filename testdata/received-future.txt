@@ -1,0 +1,16 @@
+🔔 *Reminder*: Deposit Cheques Soon
+--------------------------------------------------
+The following cheques can be deposited in 3 days:
+
+🧾 Cheque No : 1001
+👤 Payee     : John Doe
+💰 Amount    : 5000
+🏦 Bank      : ABC Bank
+📅 Date      : 2026-10-24
+
+🧾 Cheque No : 1003
+👤 Payee     : Asha Perera
+💰 Amount    : 25.00
+🏦 Bank      : ABC Bank
+📅 Date      : 2026-10-24
+
