@@ -1,0 +1,6 @@
+Config.toml
+.env
+bin/
+*.exe
+coverage.out
+.cache/

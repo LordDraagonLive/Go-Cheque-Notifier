@@ -1,0 +1,10 @@
+{
+  "Cheques Received": [
+    ["1001", "John Doe", "Rs5,000", "ABC Bank", "2026-10-24"],
+    ["1002", "Nimal Silva", "Rs12,500.50", "City Bank", "2026-10-21"]
+  ],
+  "Cheques Issued": [
+    ["2001", "Office Supplies", "Rs3,250.00", "XYZ Bank", "2026-10-24"],
+    ["2002", "Jane Smith", "Rs7,500", "XYZ Bank", "2026-10-21"]
+  ]
+}

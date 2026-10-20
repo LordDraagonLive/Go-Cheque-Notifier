@@ -1,0 +1,10 @@
+# Copy to Config.toml and replace the placeholders.
+clientId = "<GOOGLE_CLIENT_ID>"
+clientSecret = "<GOOGLE_CLIENT_SECRET>"
+refreshToken = "<GOOGLE_REFRESH_TOKEN>"
+spreadsheetId = "<GOOGLE_SHEET_ID>"
+
+twilioAuthToken = "<TWILIO_AUTH_TOKEN>"
+twilioAccountSid = "<TWILIO_ACCOUNT_SID>"
+twilioFromNumber = "+14155238886"
+twilioToNumber = "+1234567890"
